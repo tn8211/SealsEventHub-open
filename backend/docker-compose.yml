@@ -40,6 +40,6 @@ services:
     - 5001:80
     depends_on:
       - db
-  volumes:
-    postgres_data:
-    pgadmin_data:
+volumes:
+  postgres_data:
+  pgadmin_data:
