@@ -1,0 +1,29 @@
+[33mcommit 957e087697ec031946fc534f424958c8121fc4cd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: tn8211 <breadblock123@gmail.com>
+Date:   Sat Mar 22 15:58:28 2025 -0700
+
+    Added EventPage component and linked it to Channels page
+
+[33mcommit 4c18cf16d43a1e930a029a8854ff7fd0a93d5bf6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HappySeal03 <polloconuncsne@gmail.com>
+Date:   Tue Mar 18 17:38:57 2025 +0100
+
+    Added build instructions to the README
+
+[33mcommit 72a2fdb775f282d7b8ab3583d8c6d63bef26d73d[m
+Author: HappySeal03 <polloconuncsne@gmail.com>
+Date:   Tue Mar 18 12:13:31 2025 +0100
+
+    fixed a typo in the new gitignore file :(
+
+[33mcommit e4d36af15354652078efcbab6e16ec5979e3d4c2[m
+Author: HappySeal03 <polloconuncsne@gmail.com>
+Date:   Tue Mar 18 12:10:09 2025 +0100
+
+    Added the ignore file for a potential docker-compose-override
+
+[33mcommit 07ef5e2d4e207522f7a246c4e68e0a2693de69bc[m
+Author: HappySeal03 <polloconuncsne@gmail.com>
+Date:   Tue Mar 18 10:39:23 2025 +0100
+
+    first commit to the public repo
